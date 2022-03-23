@@ -1,0 +1,4 @@
+.idea
+__pycache__/
+get-pip.py
+.DS_Store
